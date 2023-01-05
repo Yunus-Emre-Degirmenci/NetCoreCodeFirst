@@ -1,0 +1,36 @@
+﻿- AppUser       -- bir kullanıcının bir detayı vardır, bir detayınb da bir kullanıcısı
+
+- AppUserDetail
+
+- Product 
+
+- Category
+
+- Order
+
+-OrderDetail
+
+
+
+------------
+
+one-to-one
+
+AppUser - AppUserDetail
+
+
+one-to-many
+
+Appuser - order
+
+product-category
+
+product orderdetail
+
+order- orderdetail
+
+
+many- to- many
+
+product - order
+
